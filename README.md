@@ -4,6 +4,11 @@
 
 The aim of this project is to design a secure and highly available network for a small enterprise using Cisco technologies.
 
+## Topology
+
+![topology](CCNA.png)
+
+
 ## Cisco Technologies
 
 * Virtual Local Area Networks (VLANs)
@@ -70,10 +75,9 @@ The wireless infrastructure consists of two lightweight access points managed by
 
 This design provides centralized wireless management and allows wireless clients to connect securely to the enterprise network.
 
-## Topology
-![topology](CCNA.png)
 
 ## Commands
+
 ![commands](commands.PNG)
 
 
