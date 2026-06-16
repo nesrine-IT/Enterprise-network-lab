@@ -70,4 +70,11 @@ The wireless infrastructure consists of two lightweight access points managed by
 
 This design provides centralized wireless management and allows wireless clients to connect securely to the enterprise network.
 
+## Topology
+![topology](CCNA.png)
+
+## Commands
+![commands](commands.PNG)
+
+
 
